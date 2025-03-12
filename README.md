@@ -48,9 +48,9 @@
 <div align="center">
   <!-- Hexagon Skills Layout -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,git,linux,arduino,raspberrypi,vscode&perline=7&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,git,linux,arduino,raspberrypi,vscode&perline=7&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,react,git,linux,arduino,raspberrypi,vscode&perline=7&theme=dark" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=dark" alt="Skills" />
   </picture>
 </div>
 
@@ -63,15 +63,6 @@
       <img height="13px" src="https://raw.githubusercontent.com/gist/Kodpact/93f9a58dee65c7f8e25a1e325a70a7c9/raw/05e4b6f5ad3e6b9b8d1a9cd1a99854af6a7f0657/bar.svg">
     </p>
     
-    <!-- C/C++ -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #00599C; height: 100%; width: 90%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">90%</span>
-    </div>
-    
     <!-- Python -->
     <div style="display: flex; align-items: center; margin-bottom: 5px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="width: 100px; margin-right: 10px;" />
@@ -81,7 +72,59 @@
       <span style="margin-left: 10px;">85%</span>
     </div>
     
-    <!-- More skills can be added in the same format -->
+    <!-- HTML -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #E34F26; height: 100%; width: 90%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">90%</span>
+    </div>
+    
+    <!-- CSS -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #1572B6; height: 100%; width: 80%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">80%</span>
+    </div>
+    
+    <!-- JavaScript -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #F7DF1E; height: 100%; width: 75%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">75%</span>
+    </div>
+    
+    <!-- SQL -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #4479A1; height: 100%; width: 70%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">70%</span>
+    </div>
+    
+    <!-- C++ -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #00599C; height: 100%; width: 85%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">85%</span>
+    </div>
+    
+    <!-- C# -->
+    <div style="display: flex; align-items: center; margin-bottom: 5px;">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="width: 100px; margin-right: 10px;" />
+      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
+        <div style="background-color: #239120; height: 100%; width: 65%; border-radius: 10px;"></div>
+      </div>
+      <span style="margin-left: 10px;">65%</span>
+    </div>
     
     <p align="center">
       <img height="13px" src="https://raw.githubusercontent.com/gist/Kodpact/93f9a58dee65c7f8e25a1e325a70a7c9/raw/05e4b6f5ad3e6b9b8d1a9cd1a99854af6a7f0657/bar.svg">
