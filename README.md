@@ -20,7 +20,7 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=YOUR_USERNAME&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats" />
+        <img src="https://github-stats-alpha.vercel.app/api?username=joaolima" alt="GitHub Stats" />
       </div>
     </td>
     <td>
@@ -47,9 +47,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=dark" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=dark" alt="Skills" />
   </picture>
 </div>
 
