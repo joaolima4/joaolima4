@@ -21,7 +21,7 @@
     <td>
       <div align="center">
         <!-- Fix for GitHub Stats - Use your actual GitHub username -->
-        <img src="https://github-readme-stats.vercel.app/api?username=joao-lima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=joaolima4&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </div>
     </td>
     <td>
