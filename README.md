@@ -59,9 +59,6 @@
   <summary align="center">💪 Skill Proficiency</summary>
   <div align="center">
     <br/>
-    <p align="center">
-      <img height="13px" src="https://raw.githubusercontent.com/gist/Kodpact/93f9a58dee65c7f8e25a1e325a70a7c9/raw/05e4b6f5ad3e6b9b8d1a9cd1a99854af6a7f0657/bar.svg">
-    </p>
     
     <!-- Python -->
     <div style="display: flex; align-items: center; margin-bottom: 5px;">
@@ -125,10 +122,6 @@
       </div>
       <span style="margin-left: 10px;">65%</span>
     </div>
-    
-    <p align="center">
-      <img height="13px" src="https://raw.githubusercontent.com/gist/Kodpact/93f9a58dee65c7f8e25a1e325a70a7c9/raw/05e4b6f5ad3e6b9b8d1a9cd1a99854af6a7f0657/bar.svg">
-    </p>
   </div>
 </details>
 
