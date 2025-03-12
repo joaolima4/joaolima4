@@ -20,7 +20,8 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://github-stats-alpha.vercel.app/api?username=joaolima" alt="GitHub Stats" />
+        <!-- Fix for GitHub Stats - Use your actual GitHub username -->
+        <img src="https://github-readme-stats.vercel.app/api?username=joao-lima&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
       </div>
     </td>
     <td>
@@ -72,7 +73,7 @@
   <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/joao-lima" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:your.email@example.com" target="_blank">
