@@ -53,155 +53,12 @@
   </picture>
 </div>
 
-<!-- Skill Bars with Animation -->
-<details>
-  <summary align="center">💪 Skill Proficiency</summary>
-  <div align="center">
-    <br/>
-    
-    <!-- Python -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #3776AB; height: 100%; width: 85%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">85%</span>
-    </div>
-    
-    <!-- HTML -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #E34F26; height: 100%; width: 90%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">90%</span>
-    </div>
-    
-    <!-- CSS -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #1572B6; height: 100%; width: 80%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">80%</span>
-    </div>
-    
-    <!-- JavaScript -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #F7DF1E; height: 100%; width: 75%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">75%</span>
-    </div>
-    
-    <!-- SQL -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #4479A1; height: 100%; width: 70%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">70%</span>
-    </div>
-    
-    <!-- C++ -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #00599C; height: 100%; width: 85%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">85%</span>
-    </div>
-    
-    <!-- C# -->
-    <div style="display: flex; align-items: center; margin-bottom: 5px;">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="width: 100px; margin-right: 10px;" />
-      <div style="background-color: #ddd; height: 20px; width: 300px; border-radius: 10px;">
-        <div style="background-color: #239120; height: 100%; width: 65%; border-radius: 10px;"></div>
-      </div>
-      <span style="margin-left: 10px;">65%</span>
-    </div>
-  </div>
-</details>
-
 <!-- Decorative Separator -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<!-- Projects Section with Custom Design -->
-<h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project 1</h3>
-        <div align="center">
-          <a href="https://github.com/YOUR_USERNAME/project1">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Project+1" width="100%" alt="Project 1"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/YOUR_USERNAME/project1">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://your-project1-demo.com">
-              <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>C++, Arduino, IoT</strong> - An embedded system project that [brief description]</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project 2</h3>
-        <div align="center">
-          <a href="https://github.com/YOUR_USERNAME/project2">
-            <img src="https://dummyimage.com/600x300/000/fff&text=Project+2" width="100%" alt="Project 2"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/YOUR_USERNAME/project2">
-              <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://your-project2-demo.com">
-              <img src="https://img.shields.io/badge/Live-00B2FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>Python, Machine Learning</strong> - A data analysis project that [brief description]</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Decorative Separator -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<!-- GitHub Stats with Custom Design -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=00B2FF&icon_color=00B4FF&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" /> 
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=00B2FF&fire=00B2FF&currStreakLabel=00B2FF" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" width="100%">
-        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00b2ff&line=00b4ff&point=f9fafa&area=true&hide_border=true" alt="Contribution Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 <!-- Decorative Separator -->
 <div align="center">
@@ -221,16 +78,8 @@
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio"/>
-  </a>
 </div>
 
-<!-- GitHub Activity Animation (replacing snake animation) -->
-<div align="center">
-  <br>
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Activity Animation" />
-</div>
 
 <!-- Footer -->
 <div align="center">
