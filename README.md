@@ -43,14 +43,13 @@
 </p>
 
 <!-- Skills Section with Custom Design -->
-<h2 align="center">🛠️ Skills & Technologies</h2>
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <div align="center">
-  <!-- Hexagon Skills Layout -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=light" />
-    <img src="https://skillicons.dev/icons?i=python,html,css,js,sql,cpp,cs,c,java,react,git,linux,arduino,raspberrypi,vscode&perline=5&theme=dark" alt="Skills" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,html,css,cs,git,mysql&theme=dark" alt="Skills" />
   </picture>
 </div>
 
