@@ -50,8 +50,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,python,c,cpp,cs,html,css,git,haskell,mysql&theme=dark" alt="Skills" />
-  </picture>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+</picture>
 </div>
 
 <!-- Decorative Separator -->
