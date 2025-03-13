@@ -31,7 +31,7 @@
           <li>💻 Passionate about embedded systems</li>
           <li>🌱 Currently learning AI & IoT</li>
           <li>🔭 Working on innovative projects</li>
-          <li>🌍 Based in [Your Location]</li>
+          <li>🌍 Based in Portugal</li>
         </ul>
       </div>
     </td>
@@ -66,13 +66,13 @@
 <h2 align="center">📫 Connect With Me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/joaolima04/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/joao-lima" target="_blank">
+  <a href="https://github.com/joaolima4" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:joao.lima04@outlook.pt" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
